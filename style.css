@@ -1,0 +1,10 @@
+.addtodobtn:hover{
+    background-color: #45a049;
+    color: white;
+    cursor: pointer;
+}
+.clearitembtn:hover{
+    background-color: #f44336;
+    color: white;
+    cursor: pointer;
+}
